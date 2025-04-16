@@ -49,6 +49,6 @@ sudo docker-compose up -d
 ```
 ### 🐳 Step 4: Open Next Cloud
 
-- open http://localhost:8080 on your browser 
+- Open http://localhost:8080 on your browser 
 - Create admin user and password
 - Install apps
